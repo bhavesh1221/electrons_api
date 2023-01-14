@@ -1,0 +1,34 @@
+[
+    {
+      "id": 0,
+      "img1": "assets/images/JBL_Quantum_400_Product Image_Hero 02.png",
+      "img2": "assets/images/JBL_Quantum_400_Product Image_Hero Mic Up.webp",
+      "prodname": "JBL Quantum 400",
+      "price1": "$300",
+      "price2": "$200"
+    },
+    {
+      "id": 1,
+      "img1": "assets/images/JBL_E55BT_KEY_BLACK_6175_FS_x1-1605x1605px.png",
+      "img2": "assets/images/JBL_LIVE650BTNC_Product Image_Folded_Black.webp",
+      "prodname": "JBL Quantum 400",
+      "price1": "$300",
+      "price2": "$200"
+    },
+    {
+      "id": 2,
+      "img1": "assets/images/JBL_JR 310BT_Product Image_Hero_Skyblue.png",
+      "img2": "assets/images/JBL_JR 310BT_Product Image_Detail_Skyblue.png",
+      "prodname": "JBL Quantum 400",
+      "price1": "$300",
+      "price2": "$200"
+    },
+    {
+      "id": 3,
+      "img1": "assets/images/kisspng-beats-electronics-headphones-apple-beats-studio-red-headphones.png",
+      "img2": "assets/images/JBL_E55BT_KEY_RED_6063_FS_x1-1605x1605px.webp",
+      "prodname": "JBL Quantum 400",
+      "price1": "$300",
+      "price2": "$200"
+    }
+  ]
