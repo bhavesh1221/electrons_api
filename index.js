@@ -12,7 +12,7 @@ app.get("/list", (req,res) => {
     res.send(appiData)
 })
 app.post("/show", (req,res) => {
-    res.json(postData)
+    res.json("data has been posted successfully")
 })
 app.listen(port, () => {
     console.log("i am live baby");
